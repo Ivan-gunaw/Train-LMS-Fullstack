@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Orbitron&display=swap');
+
+body {
+  font-family: 'DM Serif Display', serif;
+}
+
+p {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.banner{
+  background-color: #1d5b79;
+}
+
+.banner h1 {
+  color: #f3aa60;
+}
+
+.banner p {
+  color: #ffffff;
+}
+
+.main-content h3 {
+  color: #ef6262;
+  font-weight: bold;
+}
+
+.table thead tr th {
+  background-color: #ef6262;
+  color: #ffffff;
+}
+
+.table tbody tr:nth-child(1) td:nth-child(1) {
+  background-color: red;
+}
+
+.table tbody tr:nth-child(2) td:nth-child(1) {
+  background-color: green;
+}

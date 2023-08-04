@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "belajar JS Basic",
+        "status": true
+    },
+    {
+        "id": 2,
+        "task": "kerjakan latihan",
+        "status": false
+    },
+    {
+        "id": 3,
+        "task": "makan pagi",
+        "status": true
+    }
+] 

@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sweet Envy Apple",
+        "type" : "fruit",
+        "price" : 25000,
+        "stock" : 1
+        
+    },
+    {
+        "id" : 2,
+        "name" : "Sawi Putih",
+        "type" : "vegetables",
+        "price" : 100000,
+        "stock" : 5
+    },
+    {
+        "id" : 3,
+        "name" : "Jeruk Pokan",
+        "type" : "fruit",
+        "price" : 125000,
+        "stock" : 10
+    }
+]
